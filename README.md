@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Tornado.
+- 💬 Ask me about anything.
+- 📫 How to reach me: https://victoria14001.github.io/
