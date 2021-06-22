@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![11](https://user-images.githubusercontent.com/16779176/122881486-cd0cdb80-d36d-11eb-81af-c0ea2c54f2ac.png)
 
 - 🌱 I’m currently learning Tornado、jupyter notebook、streamlit etc.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [victoria's 万事屋](https://victoria14001.github.io/)。
-![72503AC3-11C4-4BF2-9EE8-4302990BDAF3-45561-00000A301120B74C](https://user-images.githubusercontent.com/16779176/122881324-9fc02d80-d36d-11eb-858d-841dbf32d8f6.png)
