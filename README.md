@@ -21,5 +21,8 @@ Here are some ideas to get you started:
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victoria14001&theme=radical&show_icons=true)
 
-![11](https://user-images.githubusercontent.com/16779176/122881486-cd0cdb80-d36d-11eb-81af-c0ea2c54f2ac.png)
+<!-- ![11](https://user-images.githubusercontent.com/16779176/122881486-cd0cdb80-d36d-11eb-81af-c0ea2c54f2ac.png) -->
 
+### Get in touch
+
+[![jessic_yang0603](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjessic_yang0603)](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjessic_yang0603)
