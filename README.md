@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### Get in touch
 
-[![jessic_yang0603](https://img.shields.io/twitter/url?label=jessic_yang0603&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fjessic_yang0603)]
+[![jessic_yang0603](https://img.shields.io/twitter/url?label=jessic_yang0603&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fjessic_yang0603)](https://twitter.com/jessic_yang0603)
