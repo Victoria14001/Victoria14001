@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tornado、jupyter notebook、streamlit etc.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [victoria's 万事屋](https://victoria14001.github.io/)。
-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victoria14001&theme=dark&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victoria14001&theme=radical&show_icons=true)
