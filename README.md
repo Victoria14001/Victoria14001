@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: [victoria's 万事屋](https://cancerVic.github.io/)。
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victoria14001&theme=gruvbox&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cancerVic&theme=gruvbox&show_icons=true)
 
 <!-- ![11](https://user-images.githubusercontent.com/16779176/122881486-cd0cdb80-d36d-11eb-81af-c0ea2c54f2ac.png) -->
 
