@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Tornado、jupyter notebook、streamlit etc.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [victoria's 万事屋](https://victoria14001.github.io/)。
+- 📫 How to reach me: [victoria's 万事屋](https://cancerVic.github.io/)。
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victoria14001&theme=gruvbox&show_icons=true)
 
